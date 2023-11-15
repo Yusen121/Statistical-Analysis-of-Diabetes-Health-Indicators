@@ -17,8 +17,8 @@ output: pdf_document
 
         \textbf{Geng Chen(leader)}\\
         Student ID: 51264893\\
-        \textbf{xxxx}\\
-        Student ID: xxxxx\\
+        \textbf{Yusen Wu}\\
+        Student ID: 59054197\\
         \textbf{xxxx}\\
         Student ID: xxxxx\\
         \Large
